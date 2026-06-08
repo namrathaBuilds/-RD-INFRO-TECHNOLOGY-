@@ -22,8 +22,8 @@ Repository showcasing AI & Machine Learning internship work, including project i
 * Flask
 * Streamlit
 ## Repository Purpose
-This repository will be regularly updated with internship tasks, project work, documentation, and learning resources throughout the internship duration.
+This repository will be updated throughout the internship with tasks, project work, documentation, and learning resources outcomes.
 ## Author
-
 Namratha P V V
+
 BTech CSE (Artificial Intelligence)
