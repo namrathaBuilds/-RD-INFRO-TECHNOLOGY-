@@ -8,7 +8,8 @@ Develop an intelligent chatbot capable of responding to common customer queries 
 - NLTK
 - Flask
 - Google Colab
-  ## Features
+- Streamlit
+ ## Features
 - Interactive web interface built using Streamlit
 - Handles multiple customer support queries
 - Maintains chat history
