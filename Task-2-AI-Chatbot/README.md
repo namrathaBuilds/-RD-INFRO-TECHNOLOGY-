@@ -9,4 +9,7 @@ Develop an intelligent chatbot capable of responding to common customer queries 
 - Flask
 - Google Colab
 ## Status
-Project Started
+Phase 1 Completed (Google Colab)
+Next Phase:
+- Build Streamlit Web Application
+- Upload Final Project to GitHub
