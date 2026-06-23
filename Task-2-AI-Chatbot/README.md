@@ -8,8 +8,15 @@ Develop an intelligent chatbot capable of responding to common customer queries 
 - NLTK
 - Flask
 - Google Colab
+  ## Features
+- Interactive web interface built using Streamlit
+- Handles multiple customer support queries
+- Maintains chat history
+- Clear Chat functionality
+- User-friendly chatbot interface
 ## Status
 Phase 1 Completed (Google Colab)
 Next Phase:
 - Build Streamlit Web Application
 - Upload Final Project to GitHub
+- Project Completed
